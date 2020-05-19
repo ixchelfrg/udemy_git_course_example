@@ -1,2 +1,4 @@
 # Example File
-Hello World! (Means we have succesfully tried something).
+Hello World! (means we have succesfully tried something).
+
+Making a second change.
